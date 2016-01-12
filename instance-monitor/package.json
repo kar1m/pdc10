@@ -1,0 +1,17 @@
+{
+  "name": "instance-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "monitor": "^0.6.10",
+    "superagent": "^1.6.1"
+  }
+}
