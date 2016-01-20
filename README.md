@@ -1,4 +1,4 @@
-# PDC10 : Applications réparties adaptables : Load Balancer
+# PdC10 : Applications réparties adaptables
 
 Notes : https://titanpad.com/pdc
 
