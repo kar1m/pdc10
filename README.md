@@ -18,7 +18,9 @@ global-monitor : reçoit les infos des instance-monitor et décide d'il faut ajo
 
 ## Installation
 
-TODO
+npm install dans le dossier global-monitor
+
+npm install dans le dossier instance-monitor
  
 ## Utilisation
 node index.js
@@ -32,9 +34,6 @@ Modifier la charge (comment ? TODO)
 ## Benchmark
 Mettre dans fiboapp une valeur de test (ex : 40) pour voir le temps d'exécution
 
-node fiboapp.js 3000 // lancer fiboapp sur port d'écoute 3000
+node fiboapp.js 3000 // Lancer fiboapp sur port d'écoute 3000
 
 node fiboapp.js 3000 node fiboapp.js 3001 node fiboapp.js 3002 sur 3 terminaux différents pour lancer 3 instances
-
-
-
