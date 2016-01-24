@@ -13,6 +13,7 @@
     "async": "^1.5.1",
     "body-parser": "^1.14.2",
     "express": "^4.13.3",
+    "ipaddr.js": "^1.0.5",
     "superagent": "^1.6.1"
   }
 }

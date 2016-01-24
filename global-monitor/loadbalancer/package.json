@@ -1,0 +1,23 @@
+{
+  "name": "pdc10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loadbalancer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kar1m/pdc10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kar1m/pdc10/issues"
+  },
+  "homepage": "https://github.com/kar1m/pdc10#readme",
+  "dependencies": {
+    "http-proxy": "^1.12.0"
+  }
+}
