@@ -16,7 +16,7 @@ processMonitor.on('change', function() {
 
 // ----- Subscribe server -----
 
-var globalMonitor = "localhost";
+var globalMonitor = "104.131.206.170";
 
 request
 	.get('http://'+globalMonitor+':9000/addserver')

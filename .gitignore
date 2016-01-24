@@ -1,3 +1,5 @@
 global-monitor/node_modules
 global-monitor/loadbalancer/node_modules
 instance-monitor/node_modules
+
+.DS_Store
